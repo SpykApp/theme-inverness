@@ -1,6 +1,33 @@
-# Inverness — A Premium Filament Theme by SpyKapps
+![Screenshot](/arts/ti.png)
+
+<p align="center">
+   <a href="https://packagist.org/packages/spykapps/theme-inverness">
+    <img src="https://img.shields.io/packagist/v/spykapps/theme-inverness.svg?style=for-the-badge" alt="Packagist Version">
+   </a>
+   <a href="https://packagist.org/packages/spykapps/theme-inverness">
+    <img src="https://img.shields.io/packagist/dt/spykapps/theme-inverness.svg?style=for-the-badge" alt="Total Downloads">
+   </a>
+   <a href="https://laravel.com/docs/12.x"><img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel 12"></a>
+   <a href="https://php.net"><img src="https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php" alt="PHP 8.3"></a>
+   <a href="https://github.com/spykapps/theme-inverness/blob/main/LICENSE.md">
+     <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License">
+   </a>
+</p>
+
+
+# Inverness - A Premium Filament Theme by Spykapps
 
 A refined, minimal Filament theme with tight spacing, subtle shadows, and Laravel-red accents. Designed for Filament v4 and v5.
+
+---
+
+## Screenshots
+
+| | |
+|---|---|
+| ![Dashboard](arts/screenshot-1.png) | ![Table View](arts/screenshot-2.png) |
+| ![Form View](arts/screenshot-3.png) | ![Dark Mode](arts/screenshot-4.png) |
+| ![Sidebar Active](arts/screenshot-5.png) | ![Modal View](arts/screenshot-6.png) |
 
 ## Installation
 
@@ -50,6 +77,11 @@ npm run build
 - **Dark mode** — Full dark mode support with carefully tuned values
 - **Smooth transitions** — 100ms/180ms transitions on interactive elements
 
+## Credits
+
+- [Sanchit Patil](https://github.com/sanchitspatil)
+- [All Contributors](../../contributors)
+
 ## License
 
-This is a premium theme. A valid license is required.
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
